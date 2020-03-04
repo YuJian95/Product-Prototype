@@ -4,6 +4,10 @@
 
 如对你有所帮助，麻烦请 **star**、 **watch**、 **fork**，一键三连支持一下！
 
+- [服务端](https://github.com/YuJian95/hospital-service)
+- [小程序端](https://gitee.com/yyyangyx/appointment-wxapp)
+- [web管理系统](https://gitee.com/yyyangyx/appointment-admin)
+
 ### 运行图片
 
 #### 小程序
